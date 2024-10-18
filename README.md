@@ -1,2 +1,3 @@
 # nodejsapp
-curso jenkins - aplicacion nodejsapp
+
+Aplicación Hello-World en nodeJS simple
